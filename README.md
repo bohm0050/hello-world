@@ -7,4 +7,4 @@ My name is Tim Bohmert, and I am new to web development and the overall world of
 
 Cheers,
 
-Tim Bohmert
+Timmy Bohmert
